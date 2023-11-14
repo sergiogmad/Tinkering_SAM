@@ -1,4 +1,4 @@
-# tinkering_sam
+# tinkering-sam
 
 In this notebook, I combine Meta's segmentation model called SAM (Segment Anything Model)
 
