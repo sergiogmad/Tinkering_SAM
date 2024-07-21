@@ -11,3 +11,5 @@ which comprises a thousand classes.
 The cell containing the Gradio app  can be executed independently.
 
 The purpose of this modest project is solely to experiment, learn, and practice.
+
+Note: Internal links of the main document (jupyter notebook) don't work correctly when the document is displayed in github.
